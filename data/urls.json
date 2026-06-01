@@ -1,15 +1,16 @@
 {
   "urls": [
     "https://tessa-prime-bbz.onrender.com",
-    "https://rakib-scloud-one.onrender.com",
-    "https://rakib-pin-one.onrender.com",
-    "https://rakib-igv-one.onrender.com",
-    "https://rakib-4k-one.onrender.com",
-    "https://rakib-prayer-one.onrender.com",
-    "https://rakib-tik-one.onrender.com",
-    "https://rakib-yt-one.onrender.com",
-    "https://rakib-gfx-one.onrender.com",
-    "https://rakib-islamic-one.onrender.com",
-    "https://rakib-ytv-one.onrender.com"
+    "https://rakib-scloud-api.onrender.com",
+    "https://rakib-pin-api.onrender.com",
+    "https://rakib-prompt-api.onrender.com",
+    "https://rakib-igv-api.onrender.com",
+    "https://rakib-4k-api.onrender.com",
+    "https://rakib-prayer-api.onrender.com",
+    "https://rakib-tik-api.onrender.com",
+    "https://rakib-yt-api.onrender.com",
+    "https://rakib-gfx-api.onrender.com",
+    "https://rakib-islamic-api.onrender.com",
+    "https://rakib-ytv-api.onrender.com"
   ]
 }
